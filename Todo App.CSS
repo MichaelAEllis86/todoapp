@@ -1,0 +1,43 @@
+
+/* body{
+   background-image:url(https://cdn.wallpapersafari.com/75/91/QzNpU3.jpg) ;
+} */
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 64px;
+    text-align: center;
+    transition: color 2000ms;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+    text-align: center;
+    transition: color 2000ms;
+}
+
+h3 {
+    font-family: 'Press Start 2P', cursive;
+    font-size:30px;
+    text-decoration: underline;
+    color: #eb6734;
+}
+
+li{
+    font-size:30px;
+    font-family: 'Press Start 2P', cursive;
+    color: #eb6734;
+}
+label{
+    font-size:16px;
+    font-family: 'Press Start 2P', cursive;
+    color: #eb6734;
+}
+
+
+#task{
+font-size: 24px;
+text-align: center;
+color: #eb6734;
+}
